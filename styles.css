@@ -34,10 +34,13 @@ h2 {
     text-align: center;
     border-style: double;
     border-radius: 5px;
-    margin-left: 42%;
-    margin-right: 42%;
-    width: 300px;
-    height: 155px;
+    margin-left: 41.5%;
+    margin-right: 41.5%;
+    width: 17%;
+    height: 17%;
+    position:absolute;
+    top: 23%;
+    justify-content: center;
 }
 
 div{
@@ -46,28 +49,37 @@ div{
     margin-right: 75%;
     border-style: double;
     border-radius: 5px;
-    width: 360px;
-    height: 310px;
-    bottom: 130px;
+    width: 19.35%;
+    height: 100%;
+    bottom: 15%;
 }
 
+.aboutme {
+    color: rgb(0, 0, 0);
+    margin-left: 5%;
+    margin-right: 75%;
+    width: 19.35%;
+    height: 37%;
+    position:absolute;
+    bottom: 12%;
+}
 
 .sectiontwo {
     color: rgb(214, 57, 57);
     margin-left: 40%;
     margin-right: 42%;
-    width: 360px;
-    height: 310px;
+    width: 19.35%;
+    height: 37%;
     position:absolute;
-    bottom: 130px;
+    bottom: 12%;
 }
 
 .sectionthree {
     color: black;
     margin-left: 70%;
     margin-right: 30;
-    width: 460px;
-    height: 585px;
+    width: 25%;
+    height: 63.65%;
     position:absolute;
-    bottom: 125px;
+    bottom: 12%;
 }
