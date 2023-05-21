@@ -8,7 +8,7 @@ function button() {
 }
 
 function buttontwo() {
-    alert("Did it work?");
+    alert("I love you <3");
 }
 
 function changevalues() {
